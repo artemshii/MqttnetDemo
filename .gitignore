@@ -1,0 +1,32 @@
+# Solution file
+*.sln
+
+# Build folders
+bin/
+obj/
+
+# Visual Studio / Rider / IDE files
+.vs/
+*.user
+*.suo
+*.idea/
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Windows thumbnail cache files
+Thumbs.db
+Desktop.ini
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Others
+*.log
+*.pdb
+*.cache
